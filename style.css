@@ -1,0 +1,98 @@
+
+
+  body {
+  background-image: url(port.jpg);
+  font-family: 'Grand Hotel';
+    font-style: normal;
+    color:white;
+    
+
+}
+
+.top-nav{
+ 
+  
+  display: flex;
+  flex-wrap: wrap;
+  justify-content:flex-start;
+  column-gap: 200px;
+  font-weight: 400;
+    font-size: 45px;
+    line-height: 49px;
+    margin-top: 30px;
+    padding:20px;
+    
+ 
+
+
+
+
+}
+.home{
+  flex-grow:3;
+}
+
+.hero-text{
+display:flex;
+justify-content: center;
+flex-wrap: wrap;
+font-weight: 400;
+  font-size: 72px;
+  line-height: 100px;
+  margin-top: 150px;
+  padding:49px;
+
+}
+
+a{
+  text-decoration: none;
+  color:white;
+}
+img{
+  height:300px;
+  width:300px;
+  border-radius:100%;
+  margin-top:50px;
+}
+.image{
+  display:flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-top:100px;
+}
+.info{
+  display:flex;
+  flex-wrap:wrap;
+  justify-content:center;
+  font-size:40px;
+  line-height:75px;
+  margin-top:50px;
+
+}
+.projects{
+  display:flex;
+  flex-wrap:wrap;
+  font-size:72px;
+  margin-top: 200px;
+  
+}
+.footer{
+  display:flex;
+  flex-wrap:wrap;
+  font-size:52px;
+  justify-content:center;
+  margin-top: 200px;
+}
+hr{
+  width:20%;
+  border: solid 2px white;
+
+  
+}
+.foot-head{
+  display: flex;
+  flex-wrap: wrap;
+  font-size: 72px;
+  margin-top: 250px;
+}
+
